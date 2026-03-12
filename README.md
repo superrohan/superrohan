@@ -13,7 +13,7 @@
 <h1 align="center">Hi 👋, I'm Rohan Bangera </h1>
 <h3 align="center">A passionate API-Driven Application Architect and Developer  </h3>
 
-![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
+![image](https://github.com/superrohan/superrohan/blob/main/dino.gif)
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=superrohan" alt="superrohan" />
